@@ -14,4 +14,4 @@ predictions were only on average around 4 values off from the actual observation
 Next time, a larger train-test split and more observations could help with 
 decreasing our training `rmse`. 
 
-## Please Reference our HTML Final Report for more Details
+**Please Reference our HTML Final Report for more Details**
